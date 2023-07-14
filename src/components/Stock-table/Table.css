@@ -1,0 +1,20 @@
+.stock-table
+{
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+.tab-border-bottom
+{
+  border-bottom: 1px solid #323232;
+}
+.tab-border-left
+{
+  border-left: 1px solid #323232;
+}
+.symbtn {
+    background-color: rgb(255,255,255,0);
+    border: 0;
+    font-weight: bold;
+    color: #f3f7ff;
+}
